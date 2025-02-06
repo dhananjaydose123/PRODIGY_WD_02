@@ -1,1 +1,1 @@
-# Task 2: Stopwatch Web Application
+# Stopwatch Web Application
